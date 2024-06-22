@@ -18,7 +18,6 @@ html {
     --text-color: #fffdd0;
     --gain-color: #f08000;
     ;
-
 }
 body {
     background-color: var(--bg-color);
@@ -336,8 +335,5 @@ section{
     }
     .about-img{
         width: 52vw;
-    }
-    .contact form{
-        flex-direction: column;
     }
 }
